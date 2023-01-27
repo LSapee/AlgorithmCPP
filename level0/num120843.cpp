@@ -1,6 +1,7 @@
 //공 던지기
 #include <string>
 #include <vector>
+#include <iostream>
 
 using namespace std;
 
@@ -18,4 +19,8 @@ int solution(vector<int> numbers, int k) {
     }
 
     return numbers[0];
+}
+
+int main(){
+    cout<<"adsad";
 }
