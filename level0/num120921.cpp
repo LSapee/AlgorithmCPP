@@ -1,25 +1,28 @@
-#include <iostream>
-#include <vector>
+//문자열 밀기
 #include <string>
+#include <vector>
+
 using namespace std;
 
-int main(){
-    string A = "apple";
-    string B = "elppa";
+int solution(string A, string B) {
     int answer =-1;
     int len = A.size();
     int count =0;
+    if(A.compare(B)==0){
+        return 0;
+    }
     while(count<len){
         count++;
-       A = A[A.size()-1]+A;
+        A = A[A.size()-1]+A;
         A.pop_back();
-        cout<<A<<"\n";
         if(A.compare(B)==0){
             answer = 1;
             break;
         }
-    }
-    cout<<answer;
 
-    return 0;
+    }
+    if(answer ==1){
+        answer =count;
+    }
+    return answer;
 }
