@@ -5,9 +5,9 @@ using namespace std;
 char c[51];
 
 int main(){
-    string s ="aukks";
-    string skip = "wbqd";
-    int index = 5;
+    string s ="ybcde";
+    string skip = "az";
+    int index = 1;
     sort(skip.begin(),skip.end());
     for(int i=0; i<s.size(); i++){
         c[i]= s[i];
