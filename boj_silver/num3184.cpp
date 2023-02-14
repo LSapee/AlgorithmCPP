@@ -28,12 +28,11 @@ int main(){
             queue<pair<int,int>> Q;
             int sp =0;
             int wf =0;
-            if(s[i][j]!= '#'){
-                if(s[i][j]=='v') wf=1;
-                if(s[i][j]=='o') sp=1;
-                Q.push({i,j});
-                s[i][j] = '#';
-            }
+            if(s[i][j] =='#') continue;
+            if(s[i][j]=='v') wf=1;
+            if(s[i][j]=='o') sp=1;
+            Q.push({i,j});
+            s[i][j] = '#';
             while(!Q.empty()){
                 pair<int,int> cur = Q.front(); Q.pop();
                 for(int z=0; z<4; z++){
