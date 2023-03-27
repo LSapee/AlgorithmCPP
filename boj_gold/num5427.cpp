@@ -27,6 +27,7 @@ int main(){
         fill(P[0],P[1005],-1);
 
 //      배열에 값 입력
+        // 재채점으로 인한 오답 수정 필요
         for(int j=0; j<h; j++){
             cin>>arr[j];
             for(int k=0; k<w; k++) {
