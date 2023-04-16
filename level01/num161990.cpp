@@ -6,32 +6,19 @@ int main(){
     cin.tie(0);
 
     vector<string> wallpaper = {"..........", ".....#....", "......##..", "...##.....", "....#....."};
-    vector<int> answer;
+    vector<int> answer ={55,55,-55,-55};
     vector<int> x;
     vector<int> y;
 
     for(int i=0; i<wallpaper.size(); i++){
         for(int j=0; j< wallpaper[i].size(); j++){
             if(wallpaper[i][j]=='#'){
-                x.push_back(i);
-                y.push_back(j);
+                answer[0] = min(answer[0],i);
+                answer[1] = min(answer[1],j);
+                answer[2] = max(answer[2],i+1);
+                answer[3] = max(answer[3],j+1);
             }
         }
     }
-    sort(x.begin(),x.end());
-    sort(y.begin(),y.end());
-    answer.push_back(x[0]);
-    answer.push_back(y[0]);
-    answer.push_back(x[x.size()-1]+1);
-    answer.push_back(y[y.size()-1]+1);
-//    cout<<x[0]<<" "<<y[0]<<"\n";
-//    cout<<x[x.size()-1]+1<<" "<<y[y.size()-1]+1<<"\n";
-//    for(int i=0;i<x.size(); i++){
-//        cout<<x[i]<< " ";
-//    }
-//    cout<<"\n";
-//    for(int i=0;i<y.size(); i++){
-//        cout<<y[i]<< " ";
-//    }
 
 }
