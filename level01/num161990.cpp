@@ -7,8 +7,6 @@ int main(){
 
     vector<string> wallpaper = {"..........", ".....#....", "......##..", "...##.....", "....#....."};
     vector<int> answer ={55,55,-55,-55};
-    vector<int> x;
-    vector<int> y;
 
     for(int i=0; i<wallpaper.size(); i++){
         for(int j=0; j< wallpaper[i].size(); j++){
