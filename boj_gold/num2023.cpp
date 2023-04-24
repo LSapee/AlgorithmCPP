@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> arr;
 int n;
 bool ok =false;
 
