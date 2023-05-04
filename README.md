@@ -7,10 +7,12 @@
 -  바킹독 유튜브 영상 및 문제집 -> https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog
 -  포르잔 C++ 바이블
 -  code.Plus+ -> https://code.plus/
+-  LeetCode
 
 # 문제 풀어 보는 사이트
 -  백준
 -  프로그래머스
+-  LeetCode
 
 # 현재 진행 사항
 1. stack(스택)
@@ -28,24 +30,23 @@
 4. 문제를 푼 경우 내 코드와의 차이점 비교 -> 커밋
 5. 문제를 못 푼 경우
 6. 어떤 부분에서 틀렸는지를 검토 및 분석
-    >바킹독 영상을 보고 해당 영상에서의 문제에 대한 팁 코드 또는 설명을 듣고도 직접 구현 못했던 코드는 boj 폴더에 넣어두는 중
 7. 2~3일후 틀렸던 문제 다시 풀어보기 및 사이트 답안에 제출
 8. 다시 풀어서 풀린경우 -> 커밋
 9. 풀지 못한 경우 다시 5~7를 반복!
 
 #  폴더 구조
-> boj : 바킹독 참고 (백준 문제 및 팁) 
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_bronze">bronze : 백준 브론즈 문제들</a>
 
-> bronze : 백준 브론즈 문제들
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_silver">silver : 백준 실버 문제들</a>
 
-> silver : 백준 실버 문제들
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_gold">gold : 백준 골드 문제들</a>
 
-> gold : 백준 골드 문제들
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_platinum">platinum : 백준 플레 문제들</a>
 
-> level0 : 프로그래머스 레벨 0 
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/level0">level0 : 프로그래머스 레벨 0 </a>
 
-> level1 : 프로그래머스 레벨 1
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/level01">level1 : 프로그래머스 레벨 1 </a>
 
-> level2 : 프로그래머스 레벨 2
+> <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/level02">level2 : 프로그래머스 레벨 2 </a>
 
-> dir : 검색 또는 이런저런 자료 찾다가 알아둬야 할 알고리즘 구현
+> <a>LeetCode</a>
