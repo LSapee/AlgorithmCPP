@@ -25,9 +25,3 @@ public:
         return ans;
     }
 };
-
-class A{
-public :
-int
-
-}
