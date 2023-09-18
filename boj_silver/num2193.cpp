@@ -1,23 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-string binary(int a){
-    string s="";
-    while(a>0){
-        s = to_string(a%2)+s;
-        a/=2;
-    }
-    return s;
-}
-
+unsigned long long arr[91];
 int main(){
-    int n,count=0;
-    cin>>n;
-    for(int i=1; i<n; i++){
-        if(binary(i).compare("11") !=0){
-            count++;
-        }
+
+    int n;cin>>n;
+    arr[0] = 0;
+    arr[1] =1;
+    arr[2] = 1;
+    arr[3] =2;
+    arr[4] = 3;
+    for(int i=5; i<=n; i++){
+        arr[i] = arr[i-1]+arr[i-2];
     }
-    cout<<count;
+    cout<<arr[n];
     return 0;
 }
