@@ -18,11 +18,8 @@ int main(){
     cin.tie(0);
     int n; cin>>n;
 //  총 이동 횟수는 2^n-1
-    string s = to_string(pow(2,n));
-    int d = s.find('.');
-    string answer = s.substr(0,d);
-    answer[answer.length()-1]-=1;
-    cout<<answer<<'\n';
+    int k = pow(2,n);
+    cout<<k-1<<'\n';
     if(n<=20){
         hanoi(1,3,n);
     }
