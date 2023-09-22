@@ -25,4 +25,3 @@ int solution(vector<int> arr) {
 
     return answer;
 }
-noXhim-nuxhoq-7qiwxu
