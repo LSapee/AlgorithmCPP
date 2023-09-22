@@ -3,7 +3,7 @@ using namespace std;
 
 int heap[100005];
 int sz = 0;//heap에 들어있는 원소의 수
-
+//push
 void push(int x){
     heap[++sz] = x;
     int k =sz;
@@ -13,10 +13,11 @@ void push(int x){
         k/=2;
     }
 }
-
+//top
 int top(){
     return heap[1];
 }
+//pop
 void pop(){
     heap[1] = heap[sz--];
     int root =1;
