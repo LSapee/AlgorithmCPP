@@ -1,6 +1,7 @@
 # Project exclude paths
 .idea
 .DS_Store
+/dir
 /cmake-build-debug/
 CMakeLists.txt
 
