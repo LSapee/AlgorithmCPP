@@ -122,7 +122,7 @@
 | 실버3 | [N과 M (7)](https://www.acmicpc.net/problem/15656)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15656.cpp) |
 | 실버3 | [돌 게임 3](https://www.acmicpc.net/problem/9657)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9657.cpp)  |
 | 실버3 | [N과 M (8)](https://www.acmicpc.net/problem/15657)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15657.cpp) |
-| 실버3 | [스파이](https://www.acmicpc.net/problem/28075)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28075.cpp) |
+| 실버3 | [스파이](https://www.acmicpc.net/problem/28075)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28075.cpp) |
 | 실버2 | [유기농 배추](https://www.acmicpc.net/problem/1012)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1012.cpp)  |
 | 실버2 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1260.cpp)  |
 | 실버2 | [에디터](https://www.acmicpc.net/problem/1406)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1406.cpp)  |
@@ -208,6 +208,7 @@
 | 실버1 | [강아지는 많을수록 좋다](https://www.acmicpc.net/problem/27971)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27971.cpp) |
 | 실버1 | [1로 만들기 2](https://www.acmicpc.net/problem/12852)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12852.cpp) |
 | 실버1 | [Knight Moves](https://www.acmicpc.net/problem/9781)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9781.cpp)  |
+| 실버1 | [Z](https://www.acmicpc.net/problem/1074)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1074.cpp)  |
 
 
 
