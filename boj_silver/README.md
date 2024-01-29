@@ -167,6 +167,7 @@
 | 실버2 | [RAINFOREST CANOPY](https://www.acmicpc.net/problem/9700)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9700.cpp)  |
 | 실버2 | [DNA 비밀번호](https://www.acmicpc.net/problem/12891)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12891.cpp) |
 | 실버2 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15988.cpp) |
+| 실버2 | [Oil Deposits ](https://www.acmicpc.net/problem/4677)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num4677.cpp)  |
 | 실버1 | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1 | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1 | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
