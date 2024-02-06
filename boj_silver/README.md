@@ -210,6 +210,7 @@
 | 실버1 | [1로 만들기 2](https://www.acmicpc.net/problem/12852)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12852.cpp) |
 | 실버1 | [Knight Moves](https://www.acmicpc.net/problem/9781)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9781.cpp)  |
 | 실버1 | [Z](https://www.acmicpc.net/problem/1074)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1074.cpp)  |
+| 실버1 | [W키가 빠진 성원이](https://www.acmicpc.net/problem/28471)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28471.cpp) |
 
 
 
