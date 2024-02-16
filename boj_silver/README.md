@@ -59,6 +59,7 @@
 | 실버5 | [중복된 숫자](https://www.acmicpc.net/problem/15719)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15719.cpp) |
 | 실버5 | [끝말잇기](https://www.acmicpc.net/problem/28432)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28432.cpp) |
 | 실버5 | [알록달록 앵무새](https://www.acmicpc.net/problem/28445)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28445.cpp) |
+| 실버5 | [최후의 승자는 누구?](https://www.acmicpc.net/problem/12760)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12760.cpp) |
 | 실버4 | [덱](https://www.acmicpc.net/problem/10866)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10866.cpp) |
 | 실버4 | [점화식](https://www.acmicpc.net/problem/13699)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13699.cpp) |
 | 실버4 | [동전 0](https://www.acmicpc.net/problem/11047)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11047.cpp) |
