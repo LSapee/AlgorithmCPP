@@ -125,6 +125,7 @@
 | 실버3 | [N과 M (8)](https://www.acmicpc.net/problem/15657)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15657.cpp) |
 | 실버3 | [스파이](https://www.acmicpc.net/problem/28075)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28075.cpp) |
 | 실버3 | [천재 수학자 성필](https://www.acmicpc.net/problem/15815)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15815.cpp) |
+| 실버3 | [후위 표기식2](https://www.acmicpc.net/problem/1935)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1935.cpp)  |
 | 실버2 | [유기농 배추](https://www.acmicpc.net/problem/1012)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1012.cpp)  |
 | 실버2 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1260.cpp)  |
 | 실버2 | [에디터](https://www.acmicpc.net/problem/1406)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1406.cpp)  |
