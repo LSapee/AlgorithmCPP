@@ -175,6 +175,7 @@
 | 실버2  | [알파벳 블록](https://www.acmicpc.net/problem/27497)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27497.cpp) |
 | 실버2  | [N과 M (9)](https://www.acmicpc.net/problem/15663)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15663.cpp) |
 | 실버2  | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24446.cpp) |
+| 실버2  | [알고리즘 수업 - 너비 우선 탐색 4](https://www.acmicpc.net/problem/24447)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24447.cpp) |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
