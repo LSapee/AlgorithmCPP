@@ -91,6 +91,7 @@
 | 실버4  | [GCD 합](https://www.acmicpc.net/problem/9613)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9613.cpp)  |
 | 실버4  | [스택 2](https://www.acmicpc.net/problem/28278)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28278.cpp) |
 | 실버4  | [알고리즘 수업 - 행렬 경로 문제 1](https://www.acmicpc.net/problem/24418)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24418.cpp) |
+| 실버4  | [크림 파스타](https://www.acmicpc.net/problem/25214)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25214.cpp) |
 | 실버3  | [1로 만들기](https://www.acmicpc.net/problem/1463)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1463.cpp)  |
 | 실버3  | [달팽이](https://www.acmicpc.net/problem/1913)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1913.cpp)  |
 | 실버3  | [소수 구하기](https://www.acmicpc.net/problem/1929)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1929.cpp)  |
