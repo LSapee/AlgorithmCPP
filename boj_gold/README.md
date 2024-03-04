@@ -45,6 +45,7 @@
 | 골드5 | [연속합 2](https://www.acmicpc.net/problem/13398)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13398.cpp) |
 | 골드5 | [항체 인식](https://www.acmicpc.net/problem/22352)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num22352.cpp) |
 | 골드5 | [회장뽑기](https://www.acmicpc.net/problem/2660)           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2660.cpp)  |
+| 골드5 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num15989.cpp) |
 | 골드4 | [이분 그래프](https://www.acmicpc.net/problem/1707)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1707.cpp)  |
 | 골드4 | [연구소 2](https://www.acmicpc.net/problem/17141)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17141.cpp) |
 | 골드4 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13913.cpp) |
