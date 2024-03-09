@@ -227,6 +227,7 @@
 | 실버1  | [W키가 빠진 성원이](https://www.acmicpc.net/problem/28471)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28471.cpp) |
 | 실버1  | [상어 키우기](https://www.acmicpc.net/problem/30892)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30892.cpp) |
 | 실버1  | [트럭](https://www.acmicpc.net/problem/13335)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13335.cpp) |
+| 실버1  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10844.cpp) |
 
 
 
