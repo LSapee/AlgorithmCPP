@@ -93,7 +93,7 @@
 | 실버4  | [알고리즘 수업 - 행렬 경로 문제 1](https://www.acmicpc.net/problem/24418)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24418.cpp) |
 | 실버4  | [크림 파스타](https://www.acmicpc.net/problem/25214)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25214.cpp) |
 | 실버4  | [물건 팔기](https://www.acmicpc.net/problem/1487)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1487.cpp)  |
-| 실버4  | [물건 팔기](https://www.acmicpc.net/problem/9372)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9372.cpp)  |
+| 실버4  | [차집합](https://www.acmicpc.net/problem/1822)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1822.cpp)   |
 | 실버3  | [1로 만들기](https://www.acmicpc.net/problem/1463)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1463.cpp)  |
 | 실버3  | [달팽이](https://www.acmicpc.net/problem/1913)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1913.cpp)  |
 | 실버3  | [소수 구하기](https://www.acmicpc.net/problem/1929)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1929.cpp)  |
