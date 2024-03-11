@@ -3,6 +3,7 @@
 | 난이도  | 문제                                                                   | 풀이                                                                                        |
 |------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
+| 실버5  | [타일 장식물](https://www.acmicpc.net/problem/13301)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13301.cpp) |
 | 실버5  | [키 큰 사람](https://www.acmicpc.net/problem/11292)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11292.cpp) |
 | 실버5  | [오늘도 졌다](https://www.acmicpc.net/problem/14582)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14582.cpp) |
 | 실버5  | [너의 평점은](https://www.acmicpc.net/problem/25206)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25206.cpp) |
