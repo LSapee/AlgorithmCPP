@@ -3,6 +3,7 @@
 | 난이도  | 문제                                                                   | 풀이                                                                                        |
 |------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
+| 실버5  | [줄 세우기](https://www.acmicpc.net/problem/11536)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11536.cpp)  |
 | 실버5  | [식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num26042.cpp) |
 | 실버5  | [BABBA](https://www.acmicpc.net/problem/9625)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9625.cpp)  |
 | 실버5  | [중간고사 채점](https://www.acmicpc.net/problem/15702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15702.cpp) |
