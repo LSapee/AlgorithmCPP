@@ -193,6 +193,7 @@
 | 실버2  | [알고리즘 수업 - 너비 우선 탐색 4](https://www.acmicpc.net/problem/24447)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24447.cpp) |
 | 실버2  | [거리가 k이하인 트리 노드에서 사과 수확하기](https://www.acmicpc.net/problem/25516)    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25516.cpp) |
 | 실버2  | [제곱수의 합](https://www.acmicpc.net/problem/1699)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1699.cpp)  |
+| 실버2  | [폴짝폴짝](https://www.acmicpc.net/problem/1326)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1326.cpp)  |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
