@@ -242,6 +242,7 @@
 | 실버1  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10844.cpp) |
 | 실버1  | [Holes](https://www.acmicpc.net/problem/26549)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num26549.cpp) |
 | 실버1  | [버섯 농장](https://www.acmicpc.net/problem/27737)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27737.cpp) |
+| 실버1  | [포도주 시식](https://www.acmicpc.net/problem/2156)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2156.cpp)  |
 
 
 
