@@ -3,6 +3,7 @@
 | 난이도  | 문제                                                                   | 풀이                                                                                        |
 |------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
+| 실버5  | [콰트로치즈피자](https://www.acmicpc.net/problem/27964)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27964.cpp) |
 | 실버5  | [생일](https://www.acmicpc.net/problem/5635)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5635.cpp)  |
 | 실버5  | [줄 세우기](https://www.acmicpc.net/problem/11536)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11536.cpp) |
 | 실버5  | [암호해독기](https://www.acmicpc.net/problem/17176)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num17176.cpp) |
