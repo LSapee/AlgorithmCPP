@@ -4,6 +4,7 @@
 |------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
 | 실버5  | [아주 간단한 문제 ](https://www.acmicpc.net/problem/25375)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25375.cpp) |
+| 실버5  | [투명](https://www.acmicpc.net/problem/1531)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1531.cpp)  |
 | 실버5  | [창문 닫기 ](https://www.acmicpc.net/problem/13909)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13909.cpp) |
 | 실버5  | [카우버거](https://www.acmicpc.net/problem/15720)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15720.cpp) |
 | 실버5  | [행렬 곱셈](https://www.acmicpc.net/problem/2740)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2740.cpp)  |
