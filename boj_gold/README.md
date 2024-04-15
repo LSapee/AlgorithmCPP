@@ -5,6 +5,7 @@
 | 골드5 | [적록색약](https://www.acmicpc.net/problem/10026)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10026.cpp) |
 | 골드5 | [Checkpoint](https://www.acmicpc.net/problem/26555)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num26555.cpp) |
 | 골드5 | [Cow Beauty Pageant](https://www.acmicpc.net/problem/5931) | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5931.cpp)  |
+| 골드5 | [Robots on a grid](https://www.acmicpc.net/problem/5011)   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5011.cpp)  |
 | 골드5 | [이진 검색 트리](https://www.acmicpc.net/problem/5639)           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5639.cpp)  |
 | 골드5 | [평범한 배낭](https://www.acmicpc.net/problem/12865)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12865.cpp) |
 | 골드5 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13549.cpp) |
