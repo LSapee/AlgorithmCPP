@@ -77,6 +77,7 @@
 | 실버5  | [최후의 승자는 누구?](https://www.acmicpc.net/problem/12760)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12760.cpp) |
 | 실버4  | [덱](https://www.acmicpc.net/problem/10866)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10866.cpp) |
 | 실버4  | [카드 놓기](https://www.acmicpc.net/problem/5568)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5568.cpp)  |
+| 실버4  | [문자열 집합](https://www.acmicpc.net/problem/14425)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14425.cpp) |
 | 실버4  | [점화식](https://www.acmicpc.net/problem/13699)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13699.cpp) |
 | 실버4  | [동전 0](https://www.acmicpc.net/problem/11047)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11047.cpp) |
 | 실버4  | [수열 정렬](https://www.acmicpc.net/problem/1015)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1015.cpp)  |
