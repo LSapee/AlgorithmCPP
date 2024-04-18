@@ -159,6 +159,7 @@
 | 실버2  | [에디터](https://www.acmicpc.net/problem/1406)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1406.cpp)  |
 | 실버2  | [종이의 개수](https://www.acmicpc.net/problem/1780)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1780.cpp)  |
 | 실버2  | [The Chivalrous Cow](https://www.acmicpc.net/problem/6004)           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6004.cpp)  |
+| 실버2  | [A-maze-ing Lakes](https://www.acmicpc.net/problem/30610)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30610.cpp) |
 | 실버2  | [연속합](https://www.acmicpc.net/problem/1912)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1912.cpp)  |
 | 실버2  | [최소 힙](https://www.acmicpc.net/problem/1927)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1927.cpp)  |
 | 실버2  | [N번째 큰 수](https://www.acmicpc.net/problem/2075)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2075.cpp)  |
