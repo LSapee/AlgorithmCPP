@@ -210,6 +210,7 @@
 | 실버2  | [제곱수의 합](https://www.acmicpc.net/problem/1699)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1699.cpp) |
 | 실버2  | [폴짝폴짝](https://www.acmicpc.net/problem/1326)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1326.cpp) |
 | 실버2  | [영상처리](https://www.acmicpc.net/problem/21938)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num21938.cpp) |
+| 실버2  | [너구리 구구](https://www.acmicpc.net/problem/18126)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18126.cpp) |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
