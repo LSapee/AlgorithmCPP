@@ -153,6 +153,7 @@
 | 실버3  | [스파이](https://www.acmicpc.net/problem/28075)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28075.cpp) |
 | 실버3  | [천재 수학자 성필](https://www.acmicpc.net/problem/15815)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15815.cpp) |
 | 실버3  | [후위 표기식2](https://www.acmicpc.net/problem/1935)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1935.cpp)  |
+| 실버3  | [크면서 작은 수](https://www.acmicpc.net/problem/2992)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2992.cpp)  |
 | 실버3  | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12789.cpp) |
 | 실버3! | [칸토어 집합](https://www.acmicpc.net/problem/4779)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num4779.cpp)  |
 | 실버2  | [유기농 배추](https://www.acmicpc.net/problem/1012)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1012.cpp)  |
