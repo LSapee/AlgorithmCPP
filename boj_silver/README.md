@@ -220,7 +220,7 @@
 | 실버2  | [N과 M (10)](https://www.acmicpc.net/problem/15664)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15664.cpp) |
 | 실버2  | [너구리 구구](https://www.acmicpc.net/problem/18126)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18126.cpp) |
 | 실버2  | [Elephant Show](https://www.acmicpc.net/problem/9790)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9790.cpp)  |
-| 실버2  | [부분수열의 합](https://www.acmicpc.net/problem/1182)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1182.cpp)  |
+| 실버2  | [부분수열의 합](https://www.acmicpc.net/problem/1182)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1182.cpp)  |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
@@ -275,6 +275,7 @@
 | 실버1  | [Feeding Time](https://www.acmicpc.net/problem/6031)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6031.cpp)  |
 | 실버1  | [Small World Network](https://www.acmicpc.net/problem/18243)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18243.cpp) |
 | 실버1  | [Paint bucket](https://www.acmicpc.net/problem/15240)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15240.cpp) |
+| 실버1  | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12101.cpp) |
 
 
 
