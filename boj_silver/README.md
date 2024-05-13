@@ -13,6 +13,7 @@
 | 실버5  | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15904.cpp) |
 | 실버5  | [피카츄](https://www.acmicpc.net/problem/14405)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14405.cpp) |
 | 실버5  | [이장님 초대](https://www.acmicpc.net/problem/9237)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9237.cpp)  |
+| 실버5  | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1817.cpp)  |
 | 실버5  | [카우버거](https://www.acmicpc.net/problem/15720)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15720.cpp) |
 | 실버5  | [행렬 곱셈](https://www.acmicpc.net/problem/2740)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2740.cpp)  |
 | 실버5  | [콰트로치즈피자](https://www.acmicpc.net/problem/27964)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27964.cpp) |
