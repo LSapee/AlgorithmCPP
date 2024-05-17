@@ -148,6 +148,7 @@
 | 실버3  | [N과 M (2)](https://www.acmicpc.net/problem/15650)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15650.cpp) |
 | 실버3  | [N과 M (3)](https://www.acmicpc.net/problem/15651)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15651.cpp) |
 | 실버3  | [파도반 수열](https://www.acmicpc.net/problem/9461)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9461.cpp)  |
+| 실버3  | [Stamps](https://www.acmicpc.net/problem/27100)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27100.cpp) |
 | 실버3  | [세 번 이내에 사과를 먹자](https://www.acmicpc.net/problem/26169)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num26169.cpp) |
 | 실버3  | [N과 M (4)](https://www.acmicpc.net/problem/15652)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15652.cpp) |
 | 실버3  | [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11899.cpp) |
