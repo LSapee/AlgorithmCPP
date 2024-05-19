@@ -3,6 +3,7 @@
 | 난이도  | 문제                                                                   | 풀이                                                                                        |
 |------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
+| 실버5  | [임시 반장 정하기](https://www.acmicpc.net/problem/1268)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1268.cpp)  |
 | 실버5  | [아주 간단한 문제 ](https://www.acmicpc.net/problem/25375)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25375.cpp) |
 | 실버5  | [투명](https://www.acmicpc.net/problem/1531)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1531.cpp)  |
 | 실버5  | [반지](https://www.acmicpc.net/problem/5555)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5555.cpp)  |
