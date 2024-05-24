@@ -228,6 +228,7 @@
 | 실버2  | [너구리 구구](https://www.acmicpc.net/problem/18126)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18126.cpp) |
 | 실버2  | [Elephant Show](https://www.acmicpc.net/problem/9790)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9790.cpp)  |
 | 실버2  | [부분수열의 합](https://www.acmicpc.net/problem/1182)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1182.cpp)  |
+| 실버2  | [텔레포트 정거장](https://www.acmicpc.net/problem/18232)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18232.cpp) |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
