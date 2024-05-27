@@ -7,6 +7,7 @@
 | 실버5  | [임시 반장 정하기](https://www.acmicpc.net/problem/1268)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11256.cpp) |
 | 실버5  | [아주 간단한 문제 ](https://www.acmicpc.net/problem/25375)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num25375.cpp) |
 | 실버5  | [미아 노트](https://www.acmicpc.net/problem/20114)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num20114.cpp) |
+| 실버5  | [브실이의 입시전략](https://www.acmicpc.net/problem/29723)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num29723.cpp) |
 | 실버5  | [투명](https://www.acmicpc.net/problem/1531)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1531.cpp)  |
 | 실버5  | [반지](https://www.acmicpc.net/problem/5555)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5555.cpp)  |
 | 실버5  | [인기 투표](https://www.acmicpc.net/problem/11637)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11637.cpp) |
