@@ -234,6 +234,7 @@
 | 실버2  | [Bitmap](https://www.acmicpc.net/problem/8061)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num8061.cpp)  |
 | 실버2  | [텔레포트 정거장](https://www.acmicpc.net/problem/18232)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18232.cpp) |
 | 실버2  | [가장 긴 증가하는 부분 수열 ](https://www.acmicpc.net/problem/11053)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11053.cpp) |
+| 실버2  | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11055.cpp) |
 | 실버1  | [국기 색칠하기](https://www.acmicpc.net/problem/30702)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num30702.cpp) |
 | 실버1  | [출근](https://www.acmicpc.net/problem/13903)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num13903.cpp) |
 | 실버1  | [Your life](https://www.acmicpc.net/problem/10917)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num10917.cpp) |
