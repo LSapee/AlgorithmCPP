@@ -170,6 +170,7 @@
 | 실버3  | [크면서 작은 수](https://www.acmicpc.net/problem/2992)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2992.cpp)  |
 | 실버3  | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12789.cpp) |
 | 실버3  | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num16922.cpp) |
+| 실버3  | [두 수의 합](https://www.acmicpc.net/problem/3273)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num3273.cpp)  |
 | 실버3  | [Connected or Not Connected](https://www.acmicpc.net/problem/5237)   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5237.cpp)  |
 | 실버3! | [칸토어 집합](https://www.acmicpc.net/problem/4779)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num4779.cpp)  |
 | 실버2  | [유기농 배추](https://www.acmicpc.net/problem/1012)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1012.cpp)  |
