@@ -3,6 +3,7 @@
 | 난이도 | 문제                                                         | 풀이                                                                                      |
 |-----|------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | 골드5 | [적록색약](https://www.acmicpc.net/problem/10026)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10026.cpp) |
+| 골드5 | [택배 배송](https://www.acmicpc.net/problem/5972)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5972.cpp)  |
 | 골드5 | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11265.cpp) |
 | 골드5 | [Checkpoint](https://www.acmicpc.net/problem/26555)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num26555.cpp) |
 | 골드5 | [Cow Beauty Pageant](https://www.acmicpc.net/problem/5931) | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5931.cpp)  |
@@ -86,7 +87,7 @@
 | 골드3 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2206.cpp)  |
 | 골드3 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9466.cpp)  |
 | 골드3 | [다리 만들기](https://www.acmicpc.net/problem/2146)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2146.cpp)  |
-| 골드3 | [카드 게임 (Hard)](https://www.acmicpc.net/problem/32143)      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32143.cpp)  |
+| 골드3 | [카드 게임 (Hard)](https://www.acmicpc.net/problem/32143)      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32143.cpp) |
 | 골드2 | [버블 소트](https://www.acmicpc.net/problem/1377)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1377.cpp)  |
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
 | 골드1 | [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1016.cpp)  |
