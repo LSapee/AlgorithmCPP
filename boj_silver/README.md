@@ -234,6 +234,7 @@
 | 실버2  | [너구리 구구](https://www.acmicpc.net/problem/18126)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18126.cpp) |
 | 실버2  | [Elephant Show](https://www.acmicpc.net/problem/9790)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9790.cpp)  |
 | 실버2  | [부분수열의 합](https://www.acmicpc.net/problem/1182)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1182.cpp)  |
+| 실버2  | [조커 찾기 2](https://www.acmicpc.net/problem/32174)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num32174.cpp) |
 | 실버2  | [Bitmap](https://www.acmicpc.net/problem/8061)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num8061.cpp)  |
 | 실버2  | [텔레포트 정거장](https://www.acmicpc.net/problem/18232)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18232.cpp) |
 | 실버2  | [가장 긴 증가하는 부분 수열 ](https://www.acmicpc.net/problem/11053)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11053.cpp) |
