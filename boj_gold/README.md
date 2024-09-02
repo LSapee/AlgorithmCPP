@@ -92,6 +92,7 @@
 | 골드3 | [카드 게임 (Hard)](https://www.acmicpc.net/problem/32143)      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32143.cpp) |
 | 골드2 | [버블 소트](https://www.acmicpc.net/problem/1377)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1377.cpp)  |
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
+| 골드2 | [보석 도둑](https://www.acmicpc.net/problem/1202)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1202.cpp)  |
 | 골드1 | [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1016.cpp)  |
 | 골드1 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11689.cpp) |
 
