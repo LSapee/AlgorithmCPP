@@ -38,5 +38,4 @@ int main(){
     }
     if(cnt>=3)cout<<1;
     else cout<<0;
-
 }

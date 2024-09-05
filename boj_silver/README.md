@@ -3,7 +3,7 @@
 | 난이도  | 문제                                                                   | 풀이                                                                                   |
 |------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | 실버5  | [백대열](https://www.acmicpc.net/problem/14490)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
-| 실버5  | [교수님 저는 취업할래요](https://www.acmicpc.net/problem/18221)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18221.cpp) |
+| 실버5  | [교수님 저는 취업할래요](https://www.acmicpc.net/problem/18221 )               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18221.cpp) |
 | 실버5  | [자료구조는 정말 최고야](https://www.acmicpc.net/problem/23253)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num23253.cpp) |
 | 실버5  | [사탕](https://www.acmicpc.net/problem/11256)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14490.cpp) |
 | 실버5  | [임시 반장 정하기](https://www.acmicpc.net/problem/1268)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11256.cpp) |
