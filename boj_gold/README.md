@@ -3,6 +3,7 @@
 | 난이도 | 문제                                                         | 풀이                                                                                      |
 |-----|------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | 골드5 | [적록색약](https://www.acmicpc.net/problem/10026)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10026.cpp) |
+| 골드5 | [공통 부분 문자열](https://www.acmicpc.net/problem/5582)          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5582.cpp)  |
 | 골드5 | [Portal Game](https://www.acmicpc.net/problem/32188)       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32188.cpp) |
 | 골드5 | [택배 배송](https://www.acmicpc.net/problem/5972)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5972.cpp)  |
 | 골드5 | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11265.cpp) |
