@@ -107,3 +107,4 @@
 | 브론즈1                                                                    | [GCD](https://www.acmicpc.net/problem/5344)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num5344.cpp)  |
 | 브론즈1                                                                    | [단어 뒤집기](https://www.acmicpc.net/problem/9093)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num9093.cpp)  |
 | 브론즈1                                                                    | [약수들의 합](https://www.acmicpc.net/problem/9506)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num9506.cpp)  |
+| 브론즈1                                                                    | [진법 변환 2](https://www.acmicpc.net/problem/11005)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num11005.cpp) |
