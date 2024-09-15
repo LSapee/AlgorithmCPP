@@ -1,4 +1,5 @@
 class Solution {
+    //commit 수정용
 public:
     int minIndexNum(vector<int>& nums){
         for(int i=0; i<nums.size()-1; i++){
