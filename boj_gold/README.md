@@ -85,6 +85,7 @@
 | 골드4 | [빙산](https://www.acmicpc.net/problem/2573)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2573.cpp)  |
 | 골드4 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7662.cpp)  |
 | 골드4 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12851.cpp) |
+| 골드4 | [인구 이동](https://www.acmicpc.net/problem/16234)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16234.cpp) |
 | 골드3 | [소수의 연속합](https://www.acmicpc.net/problem/1644)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1644.cpp)  |
 | 골드3 | [줄 세우기](https://www.acmicpc.net/problem/2252)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2252.cpp)  |
 | 골드3 | [연구소 3](https://www.acmicpc.net/problem/17142)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17142.cpp) |
