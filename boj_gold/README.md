@@ -84,6 +84,7 @@
 | 골드4 | [좋다](https://www.acmicpc.net/problem/1253)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1253.cpp)  |
 | 골드4 | [탈출](https://www.acmicpc.net/problem/16397)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16397.cpp) |
 | 골드4 | [빙산](https://www.acmicpc.net/problem/2573)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2573.cpp)  |
+| 골드4 | [빙산](https://www.acmicpc.net/problem/5052)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5052.cpp)    |
 | 골드4 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7662.cpp)  |
 | 골드4 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12851.cpp) |
 | 골드4 | [인구 이동](https://www.acmicpc.net/problem/16234)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16234.cpp) |
