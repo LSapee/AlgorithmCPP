@@ -60,6 +60,7 @@
 | 브론즈3 | [Mini Fantasy War](https://www.acmicpc.net/problem/12790)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num12790.cpp) |
 | 브론즈3 | [웰컴 키트](https://www.acmicpc.net/problem/30802)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num30802.cpp) |
 | 브론즈3 | [소음](https://www.acmicpc.net/problem/2935)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2935.cpp)  |
+| 브론즈3 | [Hotelier](https://www.acmicpc.net/problem/27481)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num27481.cpp) |
 | 브론즈3 | [연길이의 이상형](https://www.acmicpc.net/problem/20540)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num20540.cpp) |
 | 브론즈3 | [세 수](https://www.acmicpc.net/problem/2985)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2985.cpp)  |
 | 브론즈3 | [체스판 조각](https://www.acmicpc.net/problem/3004)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num3004.cpp)  |
