@@ -3,6 +3,7 @@
 | 난이도 | 문제                                                         | 풀이                                                                                      |
 |-----|------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | 골드5 | [적록색약](https://www.acmicpc.net/problem/10026)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10026.cpp) |
+| 골드5 | [거의 소수](https://www.acmicpc.net/problem/1456)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1456.cpp)  |
 | 골드5 | [트리와 쿼리](https://www.acmicpc.net/problem/15681)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num15681.cpp) |
 | 골드5 | [수학적인 최소 공통 조상](https://www.acmicpc.net/problem/26092)     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num26092.cpp) |
 | 골드5 | [공통 부분 문자열](https://www.acmicpc.net/problem/5582)          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5582.cpp)  |
@@ -84,7 +85,7 @@
 | 골드4 | [좋다](https://www.acmicpc.net/problem/1253)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1253.cpp)  |
 | 골드4 | [탈출](https://www.acmicpc.net/problem/16397)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16397.cpp) |
 | 골드4 | [빙산](https://www.acmicpc.net/problem/2573)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2573.cpp)  |
-| 골드4 | [빙산](https://www.acmicpc.net/problem/5052)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5052.cpp)    |
+| 골드4 | [빙산](https://www.acmicpc.net/problem/5052)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5052.cpp)  |
 | 골드4 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7662.cpp)  |
 | 골드4 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12851.cpp) |
 | 골드4 | [인구 이동](https://www.acmicpc.net/problem/16234)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16234.cpp) |
