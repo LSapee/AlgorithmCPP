@@ -132,6 +132,7 @@
 | 실버3  | [1로 만들기](https://www.acmicpc.net/problem/1463)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1463.cpp)  |
 | 실버3  | [Daisy Chains in the Field](https://www.acmicpc.net/problem/5938)    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num5938.cpp)  |
 | 실버3  | [도시와 비트코인](https://www.acmicpc.net/problem/31575)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num31575.cpp) |
+| 실버3  | [통계학](https://www.acmicpc.net/problem/2108)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2108.cpp)  |
 | 실버3  | [회전하는 큐](https://www.acmicpc.net/problem/1021)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1021.cpp)  |
 | 실버3  | [01타일](https://www.acmicpc.net/problem/1904)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1904.cpp)  |
 | 실버3  | [달팽이](https://www.acmicpc.net/problem/1913)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1913.cpp)  |
