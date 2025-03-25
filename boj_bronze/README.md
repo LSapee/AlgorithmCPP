@@ -90,6 +90,7 @@
 | 브론즈2 | [체스](https://www.acmicpc.net/problem/17122)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num17122.cpp) |
 | 브론즈2 | [자기복제수](https://www.acmicpc.net/problem/2028)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2028.cpp)  |
 | 브론즈2 | [분해합](https://www.acmicpc.net/problem/2231)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2231.cpp)  |
+| 브론즈2 | [Hashing](https://www.acmicpc.net/problem/15829)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num15829.cpp) |
 | 브론즈2 | [팩토리얼 2](https://www.acmicpc.net/problem/27433)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num27433.cpp) |
 | 브론즈2 | [수 정렬하기](https://www.acmicpc.net/problem/2750)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2750.cpp)  |
 | 브론즈2 | [아름다운 수](https://www.acmicpc.net/problem/2774)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num2774.cpp)  |
