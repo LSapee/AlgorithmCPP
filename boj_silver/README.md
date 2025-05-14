@@ -306,7 +306,8 @@
 | 실버1  | [カーペット (Carpet)](https://www.acmicpc.net/problem/24449)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24449.cpp) |
 | 실버1  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14888.cpp) |
 | 실버1  | [아보와 킨텍스](https://www.acmicpc.net/problem/32206)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num32206.cpp) |
-| 실버1  | [](https://www.acmicpc.net/problem/1497)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1497.cpp)  |
+| 실버1  | [기타콘서트](https://www.acmicpc.net/problem/1497)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1497.cpp)  |
+| 실버1  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6588.cpp)  |
 
 
 
