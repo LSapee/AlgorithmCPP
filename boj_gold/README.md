@@ -111,7 +111,8 @@
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
 | 골드2 | [보석 도둑](https://www.acmicpc.net/problem/1202)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1202.cpp)  |
 | 골드2 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16946.cpp) |
-| 골드2 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7453.cpp)  |
+| 골드2 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7453.cpp)  |
+| 골드2 | [돌 게임 7](https://www.acmicpc.net/problem/9661)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9661.cpp)  |
 | 골드1 | [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1016.cpp)  |
 | 골드1 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11689.cpp) |
 
