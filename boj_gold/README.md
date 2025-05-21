@@ -88,6 +88,7 @@
 | 골드4 | [좋다](https://www.acmicpc.net/problem/1253)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1253.cpp)  |
 | 골드4 | [탈출](https://www.acmicpc.net/problem/16397)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16397.cpp) |
 | 골드4 | [빙산](https://www.acmicpc.net/problem/2573)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2573.cpp)  |
+| 골드4 | [도둑](https://www.acmicpc.net/problem/13422)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13422.cpp) |
 | 골드4 | [전화번호 목록](https://www.acmicpc.net/problem/5052)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5052.cpp)  |
 | 골드4 | [전생했더니 슬라임 연구자였던 건에 대하여 (Hard) ](https://www.acmicpc.net/problem/14698) | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14698.cpp) |
 | 골드4 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7662.cpp)  |
