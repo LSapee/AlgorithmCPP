@@ -93,6 +93,7 @@
 | 골드4 | [전생했더니 슬라임 연구자였던 건에 대하여 (Hard) ](https://www.acmicpc.net/problem/14698) | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14698.cpp) |
 | 골드4 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7662.cpp)  |
 | 골드4 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12851.cpp) |
+| 골드4 | [미로만들기](https://www.acmicpc.net/problem/2665)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2665.cpp)  |
 | 골드4 | [인구 이동](https://www.acmicpc.net/problem/16234)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16234.cpp) |
 | 골드4 | [RGB거리 2](https://www.acmicpc.net/problem/17404)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17404.cpp) |
 | 골드4 | [소수 경로](https://www.acmicpc.net/problem/1963)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1963.cpp)  |
