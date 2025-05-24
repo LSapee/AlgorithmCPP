@@ -56,6 +56,7 @@
 | 골드5 | [보물섬](https://www.acmicpc.net/problem/2589)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2589.cpp)  |
 | 골드5 | [두 수의 합](https://www.acmicpc.net/problem/9024)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9024.cpp)  |
 | 골드5 | [색칠하기](https://www.acmicpc.net/problem/13265)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13265.cpp) |
+| 골드5 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num22862.cpp) |
 | 골드5 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16928.cpp) |
 | 골드5 | [수 고르기](https://www.acmicpc.net/problem/2230)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2230.cpp)  |
 | 골드5 | [색종이와 공예](https://www.acmicpc.net/problem/26598)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num26598.cpp) |
