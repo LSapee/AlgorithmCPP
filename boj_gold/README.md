@@ -110,6 +110,7 @@
 | 골드3 | [다리 만들기](https://www.acmicpc.net/problem/2146)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2146.cpp)  |
 | 골드3 | [세 용액](https://www.acmicpc.net/problem/2473)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2473.cpp)  |
 | 골드3 | [ACM Craft](https://www.acmicpc.net/problem/1005)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1005.cpp)  |
+| 골드3 | [트랙 정리하기](https://www.acmicpc.net/problem/32689)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32689.cpp) |
 | 골드3 | [카드 게임 (Hard)](https://www.acmicpc.net/problem/32143)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32143.cpp) |
 | 골드2 | [버블 소트](https://www.acmicpc.net/problem/1377)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1377.cpp)  |
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
