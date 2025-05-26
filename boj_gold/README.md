@@ -113,6 +113,7 @@
 | 골드3 | [트랙 정리하기](https://www.acmicpc.net/problem/32689)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32689.cpp) |
 | 골드3 | [카드 게임 (Hard)](https://www.acmicpc.net/problem/32143)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num32143.cpp) |
 | 골드2 | [버블 소트](https://www.acmicpc.net/problem/1377)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1377.cpp)  |
+| 골드2 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12015.cpp) |
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
 | 골드2 | [보석 도둑](https://www.acmicpc.net/problem/1202)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1202.cpp)  |
 | 골드2 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16946.cpp) |
