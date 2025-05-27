@@ -98,7 +98,7 @@ int main(){
     }
 
     for(int i=0; i<virus.size(); i++)dfs(0,i);
-
     if(ans==INT_MAX)cout<<-1;
     else cout<<ans;
+    return 0;
 }
