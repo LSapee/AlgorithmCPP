@@ -13,6 +13,15 @@ vector<pair<int,int>> virus;
 bool check[10];
 int ans = INT_MAX;
 int test[50][50];
+void output(){
+    for(int i=0;i<n;i++){
+        for(int j=0; j<n; j++){
+            cout<<test[i][j]<<" ";
+        }
+        cout<<"\n";
+    }
+}
+
 // 탐색 하여 바이러스 터지는 시간 계산
 int bfs(){
     fill(test[0],test[50],-1);
@@ -43,6 +52,7 @@ int bfs(){
         for(int j=0; j<n; j++){
             if(test[i][j]==-1) return -1;
             re = max(re,test[i][j]);
+            output();
         }
     }
     return re;
