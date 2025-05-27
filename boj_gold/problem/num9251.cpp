@@ -20,7 +20,7 @@ int main(){
     }
     for(int i=1; i<n; i++){
         for(int j=1; j<m; j++){
-            if(s[i]==ss[j])ans[i][j] = max({ans[i-1][j-1]+1,ans[i-1][j],ans[i-1][j]});
+            if(s[i]==ss[j])ans[i][j] = max({ans[i-1][j-1]+1,ans[i-1][j],ans[i][j-1]});
             else ans[i][j] = max({ans[i-1][j-1],ans[i-1][j],ans[i][j-1]});
         }
     }
