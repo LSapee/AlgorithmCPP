@@ -2,6 +2,8 @@
 
 -  목표 1일 1~3문제 풀기!
 
+### 백준 플래티넘 달성 [회고](https://github.com/LSapee/AlgorithmCPP/tree/main/etc)
+
 # 참고 하고 있는 책 및 영상 및 사이트 
 -  종만북 -> 알고리즘 문제 해결 전략 세트
 -  바킹독 유튜브 영상 및 문제집 -> https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog
