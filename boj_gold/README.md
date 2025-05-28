@@ -85,7 +85,7 @@
 | 골드4 | [합이 0](https://www.acmicpc.net/problem/3151)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num3151.cpp)  |
 | 골드4 | [미로 탈출](https://www.acmicpc.net/problem/14923)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14923.cpp) |
 | 골드4 | [부분합](https://www.acmicpc.net/problem/1806)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1806.cpp)  |
-| 골드4 | [LCS 2](https://www.acmicpc.net/problem/9252)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9252.cpp)  |
+| 골드4 | [LCS 2](https://www.acmicpc.net/problem/9252)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9252.cpp)  |
 | 골드4 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1197.cpp)  |
 | 골드4 | [좋다](https://www.acmicpc.net/problem/1253)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1253.cpp)  |
 | 골드4 | [탈출](https://www.acmicpc.net/problem/16397)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16397.cpp) |
@@ -97,6 +97,7 @@
 | 골드4 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12851.cpp) |
 | 골드4 | [미로만들기](https://www.acmicpc.net/problem/2665)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2665.cpp)  |
 | 골드4 | [인구 이동](https://www.acmicpc.net/problem/16234)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16234.cpp) |
+| 골드4 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11054.cpp) |
 | 골드4 | [RGB거리 2](https://www.acmicpc.net/problem/17404)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17404.cpp) |
 | 골드4 | [소수 경로](https://www.acmicpc.net/problem/1963)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1963.cpp)  |
 | 골드4 | [소수 게임](https://www.acmicpc.net/problem/14622)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14622.cpp) |
