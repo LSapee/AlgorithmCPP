@@ -20,6 +20,7 @@
 | 골드5 | [평범한 배낭](https://www.acmicpc.net/problem/12865)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12865.cpp) |
 | 골드5 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13549.cpp) |
 | 골드5 | [자두나무](https://www.acmicpc.net/problem/2240)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2240.cpp)  |
+| 골드5 | [나도리팡](https://www.acmicpc.net/problem/24508)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num24508.cpp) |
 | 골드5 | [도넛 행성](https://www.acmicpc.net/problem/27211)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num27211.cpp) |
 | 골드5 | [김밥천국의 계단](https://www.acmicpc.net/problem/28069)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num28069.cpp) |
 | 골드5 | [트리](https://www.acmicpc.net/problem/1068)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1068.cpp)  |
