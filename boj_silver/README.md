@@ -229,6 +229,7 @@
 | 실버2  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15988.cpp) |
 | 실버2  | [Oil Deposits ](https://www.acmicpc.net/problem/4677)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num4677.cpp)  |
 | 실버2  | [알파벳 블록](https://www.acmicpc.net/problem/27497)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27497.cpp) |
+| 실버2  | [예산](https://www.acmicpc.net/problem/2512)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2512.cpp) |
 | 실버2  | [N과 M (9)](https://www.acmicpc.net/problem/15663)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15663.cpp) |
 | 실버2  | [N과 M (11)](https://www.acmicpc.net/problem/15665)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15665.cpp) |
 | 실버2  | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24446.cpp) |
