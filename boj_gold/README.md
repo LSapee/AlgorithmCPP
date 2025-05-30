@@ -108,6 +108,7 @@
 | 골드3 | [줄 세우기](https://www.acmicpc.net/problem/2252)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2252.cpp)  |
 | 골드3 | [연구소 3](https://www.acmicpc.net/problem/17142)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17142.cpp) |
 | 골드3 | [나머지 합](https://www.acmicpc.net/problem/10986)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10986.cpp) |
+| 골드3 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1600.cpp)  |
 | 골드3 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2206.cpp)  |
 | 골드3 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9466.cpp)  |
 | 골드3 | [다리 만들기](https://www.acmicpc.net/problem/2146)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2146.cpp)  |
