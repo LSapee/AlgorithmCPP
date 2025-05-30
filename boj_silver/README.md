@@ -97,6 +97,7 @@
 | 실버4  | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1018.cpp)  |
 | 실버4  | [보물](https://www.acmicpc.net/problem/1026)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1026.cpp)  |
 | 실버4  | [요세푸스](https://www.acmicpc.net/problem/1158)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1158.cpp)  |
+| 실버4  | [토너먼트](https://www.acmicpc.net/problem/1057)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1057.cpp)  |
 | 실버4  | [등수 구하기](https://www.acmicpc.net/problem/1205)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1205.cpp)  |
 | 실버4  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1620.cpp)  |
 | 실버4  | [듣보잡](https://www.acmicpc.net/problem/1764)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1764.cpp)  |
