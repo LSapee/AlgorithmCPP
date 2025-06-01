@@ -127,6 +127,7 @@
 | 골드2 | [돌 게임 7](https://www.acmicpc.net/problem/9661)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9661.cpp)  |
 | 골드1 | [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1016.cpp)  |
 | 골드1 | [GCD(n, k) = 1](https://www.acmicpc.net/problem/11689)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num11689.cpp) |
+| 골드1 | [벽 부수고 이동하기 3 ](https://www.acmicpc.net/problem/16933)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16933.cpp) |
 
 
 
