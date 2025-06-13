@@ -229,7 +229,7 @@
 | 실버2  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15988.cpp) |
 | 실버2  | [Oil Deposits ](https://www.acmicpc.net/problem/4677)                | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num4677.cpp)  |
 | 실버2  | [알파벳 블록](https://www.acmicpc.net/problem/27497)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num27497.cpp) |
-| 실버2  | [예산](https://www.acmicpc.net/problem/2512)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2512.cpp) |
+| 실버2  | [예산](https://www.acmicpc.net/problem/2512)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2512.cpp)  |
 | 실버2  | [N과 M (9)](https://www.acmicpc.net/problem/15663)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15663.cpp) |
 | 실버2  | [N과 M (11)](https://www.acmicpc.net/problem/15665)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15665.cpp) |
 | 실버2  | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24446.cpp) |
@@ -238,6 +238,7 @@
 | 실버2  | [제곱수의 합](https://www.acmicpc.net/problem/1699)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1699.cpp)  |
 | 실버2  | [폴짝폴짝](https://www.acmicpc.net/problem/1326)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1326.cpp)  |
 | 실버2  | [영상처리](https://www.acmicpc.net/problem/21938)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num21938.cpp) |
+| 실버2  | [또 전자레인지야?](https://www.acmicpc.net/problem/24390)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num24390.cpp) |
 | 실버2  | [소-난다!](https://www.acmicpc.net/problem/19699)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num19699.cpp) |
 | 실버2  | [랜선 자르기](https://www.acmicpc.net/problem/1654)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1654.cpp)  |
 | 실버2  | [나무 자르기](https://www.acmicpc.net/problem/2805)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2805.cpp)  |
