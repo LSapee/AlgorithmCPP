@@ -311,6 +311,7 @@
 | 실버1  | [아보와 킨텍스](https://www.acmicpc.net/problem/32206)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num32206.cpp) |
 | 실버1  | [기타콘서트](https://www.acmicpc.net/problem/1497)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1497.cpp)  |
 | 실버1  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6588.cpp)  |
+| 실버1  | [부동산 다툼](https://www.acmicpc.net/problem/20364)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num20364.cpp) |
 
 
 
