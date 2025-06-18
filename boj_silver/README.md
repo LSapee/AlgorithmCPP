@@ -117,6 +117,7 @@
 | 실버4  | [solved.ac](https://www.acmicpc.net/problem/18110)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18110.cpp) |
 | 실버4  | [Best Grass](https://www.acmicpc.net/problem/6186)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6186.cpp)  |
 | 실버4  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num17219.cpp) |
+| 실버4  | [스도쿠 채점](https://www.acmicpc.net/problem/9291)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9291.cpp)  |
 | 실버4  | [ATM](https://www.acmicpc.net/problem/11399)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11399.cpp) |
 | 실버4  | [Bucket Brigade](https://www.acmicpc.net/problem/17198)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num17198.cpp) |
 | 실버4  | [피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14495.cpp) |
