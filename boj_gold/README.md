@@ -113,6 +113,7 @@
 | 골드3 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1600.cpp)  |
 | 골드3 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2206.cpp)  |
 | 골드3 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9466.cpp)  |
+| 골드3 | [경사로](https://www.acmicpc.net/problem/14890)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14890.cpp) |
 | 골드3 | [다리 만들기](https://www.acmicpc.net/problem/2146)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2146.cpp)  |
 | 골드3 | [세 용액](https://www.acmicpc.net/problem/2473)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2473.cpp)  |
 | 골드3 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14442.cpp) |
