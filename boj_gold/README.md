@@ -124,6 +124,7 @@
 | 골드2 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12015.cpp) |
 | 골드2 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1655.cpp)  |
 | 골드2 | [보석 도둑](https://www.acmicpc.net/problem/1202)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1202.cpp)  |
+| 골드2 | [확장 게임](https://www.acmicpc.net/problem/16920)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16920.cpp) |
 | 골드2 | [문제집](https://www.acmicpc.net/problem/1766)                             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1766.cpp)  |
 | 골드2 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16946.cpp) |
 | 골드2 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num7453.cpp)  |
