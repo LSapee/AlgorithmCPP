@@ -17,7 +17,7 @@
 | 골드5 | [爆発の連鎖](https://www.acmicpc.net/problem/22363)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num22363.cpp) |
 | 골드5 | [핑거 스냅](https://www.acmicpc.net/problem/17394)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17394.cpp) |
 | 골드5 | [최소비용 구하기](https://www.acmicpc.net/problem/1916)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1916.cpp)  |
-| 골드5 | [레벨 햄버거](https://www.acmicpc.net/problem/16974)                               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16974.cpp) |
+| 골드5 | [레벨 햄버거](https://www.acmicpc.net/problem/16974)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num16974.cpp) |
 | 골드5 | [이진 검색 트리](https://www.acmicpc.net/problem/5639)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5639.cpp)  |
 | 골드5 | [평범한 배낭](https://www.acmicpc.net/problem/12865)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num12865.cpp) |
 | 골드5 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13549.cpp) |
@@ -105,6 +105,7 @@
 | 골드4 | [RGB거리 2](https://www.acmicpc.net/problem/17404)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17404.cpp) |
 | 골드4 | [소수 경로](https://www.acmicpc.net/problem/1963)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1963.cpp)  |
 | 골드4 | [소수 게임](https://www.acmicpc.net/problem/14622)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14622.cpp) |
+| 골드4 | [준표의 조약돌](https://www.acmicpc.net/problem/15831)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num15831.cpp) |
 | 골드4 | [수 나누기 게임](https://www.acmicpc.net/problem/27172)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num27172.cpp) |
 | 골드4 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1915.cpp)  |
 | 골드3 | [소수의 연속합](https://www.acmicpc.net/problem/1644)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1644.cpp)  |
