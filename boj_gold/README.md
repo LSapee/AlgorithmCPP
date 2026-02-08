@@ -106,6 +106,7 @@
 | 골드4 | [소수 경로](https://www.acmicpc.net/problem/1963)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1963.cpp)  |
 | 골드4 | [소수 게임](https://www.acmicpc.net/problem/14622)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14622.cpp) |
 | 골드4 | [준표의 조약돌](https://www.acmicpc.net/problem/15831)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num15831.cpp) |
+| 골드4 | [체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num25682.cpp) |
 | 골드4 | [수 나누기 게임](https://www.acmicpc.net/problem/27172)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num27172.cpp) |
 | 골드4 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1915.cpp)  |
 | 골드3 | [소수의 연속합](https://www.acmicpc.net/problem/1644)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1644.cpp)  |
