@@ -71,6 +71,7 @@
 | 골드5 | [동전 2](https://www.acmicpc.net/problem/2294)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num2294.cpp)  |
 | 골드5 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)                  | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num15989.cpp) |
 | 골드4 | [이분 그래프](https://www.acmicpc.net/problem/1707)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num1707.cpp)  |
+| 골드4 | [전화번호 수수께끼 (Large) ](https://www.acmicpc.net/problem/14370)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14370.cpp) |
 | 골드4 | [연구소 2](https://www.acmicpc.net/problem/17141)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num17141.cpp) |
 | 골드4 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num13913.cpp) |
 | 골드4 | [탈출](https://www.acmicpc.net/problem/3055)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num3055.cpp)  |
