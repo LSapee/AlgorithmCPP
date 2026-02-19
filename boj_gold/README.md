@@ -85,6 +85,7 @@
 | 골드4 | [불!](https://www.acmicpc.net/problem/4179)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num4179.cpp)  |
 | 골드4 | [트리](https://www.acmicpc.net/problem/4803)                              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num4803.cpp)  |
 | 골드4 | [연구소](https://www.acmicpc.net/problem/14502)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num14502.cpp) |
+| 골드4 | [N-Queen](https://www.acmicpc.net/problem/9663)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num9663.cpp)  |
 | 골드4 | [불](https://www.acmicpc.net/problem/5427)                               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num5427.cpp)  |
 | 골드4 | [팰린드롬?](https://www.acmicpc.net/problem/10942)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num10942.cpp) |
 | 골드4 | [합이 0](https://www.acmicpc.net/problem/3151)                            | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_gold/problem/num3151.cpp)  |
