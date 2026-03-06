@@ -115,3 +115,4 @@
 | 브론즈1 | [진법 변환 2](https://www.acmicpc.net/problem/11005)                 | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num11005.cpp) |
 | 브론즈1 | [세종이의 시간 여행](https://www.acmicpc.net/problem/32332)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num32332.cpp) |
 | 브론즈1 | [가희와 전기 요금 1](https://www.acmicpc.net/problem/32779)             | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num32779.cpp) |
+| 브론즈1 | [Java String Equals](https://www.acmicpc.net/problem/33556)      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_bronze/problem/num33556.cpp) |
