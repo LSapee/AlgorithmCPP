@@ -113,7 +113,7 @@
 | 실버4  | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2960.cpp)  |
 | 실버4  | [좋은 단어](https://www.acmicpc.net/problem/3986)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num3986.cpp)  |
 | 실버4  | [카드](https://www.acmicpc.net/problem/11652)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11652.cpp) |
-| 실버4  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1244.cpp)  |
+| 실버4  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1244.cpp)  |
 | 실버4  | [네모의 꿈](https://www.acmicpc.net/problem/32205)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num32205.cpp) |
 | 실버4  | [solved.ac](https://www.acmicpc.net/problem/18110)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18110.cpp) |
 | 실버4  | [Best Grass](https://www.acmicpc.net/problem/6186)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6186.cpp)  |
@@ -175,6 +175,7 @@
 | 실버3  | [돌 게임 3](https://www.acmicpc.net/problem/9657)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9657.cpp)  |
 | 실버3  | [N과 M (8)](https://www.acmicpc.net/problem/15657)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15657.cpp) |
 | 실버3  | [스파이](https://www.acmicpc.net/problem/28075)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28075.cpp) |
+| 실버3  | [기념품](https://www.acmicpc.net/problem/12873)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num12873.cpp) |
 | 실버3  | [천재 수학자 성필](https://www.acmicpc.net/problem/15815)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15815.cpp) |
 | 실버3  | [후위 표기식2](https://www.acmicpc.net/problem/1935)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1935.cpp)  |
 | 실버3  | [크면서 작은 수](https://www.acmicpc.net/problem/2992)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2992.cpp)  |
