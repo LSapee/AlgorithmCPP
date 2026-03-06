@@ -113,11 +113,12 @@
 | 실버4  | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2960.cpp)  |
 | 실버4  | [좋은 단어](https://www.acmicpc.net/problem/3986)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num3986.cpp)  |
 | 실버4  | [카드](https://www.acmicpc.net/problem/11652)                          | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11652.cpp) |
+| 실버4  | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1244.cpp)  |
 | 실버4  | [네모의 꿈](https://www.acmicpc.net/problem/32205)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num32205.cpp) |
 | 실버4  | [solved.ac](https://www.acmicpc.net/problem/18110)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num18110.cpp) |
 | 실버4  | [Best Grass](https://www.acmicpc.net/problem/6186)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num6186.cpp)  |
 | 실버4  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num17219.cpp) |
-| 실버4  | [스도쿠 채점](https://www.acmicpc.net/problem/9291)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9291.cpp)  |
+| 실버4  | [스도쿠 채점](https://www.acmicpc.net/problem/9291)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9291.cpp)  |
 | 실버4  | [ATM](https://www.acmicpc.net/problem/11399)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11399.cpp) |
 | 실버4  | [Bucket Brigade](https://www.acmicpc.net/problem/17198)              | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num17198.cpp) |
 | 실버4  | [피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)               | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num14495.cpp) |
