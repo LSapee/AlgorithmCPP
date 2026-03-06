@@ -266,6 +266,7 @@
 | 실버1  | [소수&팰린드롬](https://www.acmicpc.net/problem/1747)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1747.cpp)  |
 | 실버1  | [회의실 배정](https://www.acmicpc.net/problem/1931)                       | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1931.cpp)  |
 | 실버1  | [그림](https://www.acmicpc.net/problem/1926)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1926.cpp)  |
+| 실버1  | [양동이 게임](https://www.acmicpc.net/problem/28360)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num28360.cpp) |
 | 실버1  | [트리 순회](https://www.acmicpc.net/problem/1991)                        | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1991.cpp)  |
 | 실버1  | [쿼드트리](https://www.acmicpc.net/problem/1992)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1992.cpp)  |
 | 실버1  | [미로탐색](https://www.acmicpc.net/problem/2178)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2178.cpp)  |
