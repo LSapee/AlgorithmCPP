@@ -169,6 +169,7 @@
 | 실버3  | [연속부분최대곱](https://www.acmicpc.net/problem/2670)                      | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num2670.cpp)  |
 | 실버3  | [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)                     | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num11899.cpp) |
 | 실버3  | [순열](https://www.acmicpc.net/problem/9742)                           | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num9742.cpp)  |
+| 실버3  | [정사각형](https://www.acmicpc.net/problem/1485)                         | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num1485.cpp)  |
 | 실버3  | [N과 M (5) ](https://www.acmicpc.net/problem/15654)                   | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15654.cpp) |
 | 실버3  | [N과 M (6)](https://www.acmicpc.net/problem/15655)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15655.cpp) |
 | 실버3  | [N과 M (7)](https://www.acmicpc.net/problem/15656)                    | [나의 답안](https://github.com/LSapee/AlgorithmCPP/blob/main/boj_silver/problem/num15656.cpp) |
