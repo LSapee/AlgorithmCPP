@@ -1,22 +1,22 @@
 # AlgorithmCPP
 
--  목표 1일 1~3문제 풀기!
-
-### 백준 플래티넘 달성 [회고](https://github.com/LSapee/AlgorithmCPP/tree/main/etc)
+- 목표 1일 1~3문제 풀기!
+- leetcode 데일리 미션 풀었던거 나왔을때 그냥 제출할 것이 아니라 다시 풀어보기.
 
 # 참고 하고 있는 책 및 영상 및 사이트 
--  종만북 -> 알고리즘 문제 해결 전략 세트
+-  ~~종만북 -> 알고리즘 문제 해결 전략 세트~~
+-  ~~포르잔 C++ 바이블~~
 -  바킹독 유튜브 영상 및 문제집 -> https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog
--  포르잔 C++ 바이블
 -  LeetCode
 
 # 문제 풀어 보는 사이트
--  백준
--  프로그래머스
+-  ~~백준~~
+-  ~~프로그래머스~~
 -  LeetCode
 
 
 #  폴더 구조
+
 > <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_bronze">bronze : 백준 브론즈 문제들</a>
 
 > <a href="https://github.com/LSapee/AlgorithmCPP/tree/main/boj_silver">silver : 백준 실버 문제들</a>
