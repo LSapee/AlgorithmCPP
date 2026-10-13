@@ -3,6 +3,7 @@
 // 내가 작성한 코드 45ms 나오길래 물어봄.
 // 핵심은 기존에 sort의 경우 N log N 걸리던 것을 nth_element로 하여 시간복잡도를 N으로 단축 및 투포인터 쓰던것을 그냥 2개의 for문으로 분할처리.
 // 실제연산은 2N으로 수렴.
+// 문제명 잘못씀.
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
